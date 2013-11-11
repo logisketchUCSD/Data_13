@@ -1,0 +1,196 @@
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\0128_1.6.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\0128_1.6.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  21.429%
+Percentage of correctly labeled Gates:  50.000%
+Percentage of correctly labeled Labels: 76.190%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\0128_1.7.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\0128_1.7.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  33.333%
+Percentage of correctly labeled Gates:  .000%
+Percentage of correctly labeled Labels: 25.000%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\0128_3.5.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\0128_3.5.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  .000%
+Percentage of correctly labeled Gates:  38.462%
+Percentage of correctly labeled Labels: 60.000%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\0128_3.6.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\0128_3.6.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  9.091%
+Percentage of correctly labeled Gates:  40.000%
+Percentage of correctly labeled Labels: 40.476%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\0128_6.1.1.labeled.wire-gate-labe.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\0128_6.1.1.labeled.wire-gate-labe.xml.
+Percentage of correctly labeled Wires:  5.882%
+Percentage of correctly labeled Gates:  62.500%
+Percentage of correctly labeled Labels: 75.000%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\0268_1.7.1.labeled.wire-gate-labe.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\0268_1.7.1.labeled.wire-gate-labe.xml.
+Percentage of correctly labeled Wires:  .000%
+Percentage of correctly labeled Gates:  .000%
+Percentage of correctly labeled Labels: 50.000%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\0268_1.8.1.labeled.wire-gate-labe.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\0268_1.8.1.labeled.wire-gate-labe.xml.
+Percentage of correctly labeled Wires:  66.667%
+Percentage of correctly labeled Gates:  .000%
+Percentage of correctly labeled Labels: 80.000%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\0268_2.6.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\0268_2.6.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  20.000%
+Percentage of correctly labeled Gates:  14.286%
+Percentage of correctly labeled Labels: 75.000%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\0268_3.3.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\0268_3.3.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  36.364%
+Percentage of correctly labeled Gates:  .000%
+Percentage of correctly labeled Labels: 41.667%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\0268_3.4.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\0268_3.4.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  42.105%
+Percentage of correctly labeled Gates:  .000%
+Percentage of correctly labeled Labels: 36.364%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\0268_3.5.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\0268_3.5.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  8.333%
+Percentage of correctly labeled Gates:  33.333%
+Percentage of correctly labeled Labels: 40.000%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\0268_3.7.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\0268_3.7.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  33.333%
+Percentage of correctly labeled Gates:  .000%
+Percentage of correctly labeled Labels: 44.737%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\0268_4.3.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\0268_4.3.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  31.111%
+Percentage of correctly labeled Gates:  20.000%
+Percentage of correctly labeled Labels: 33.333%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\0502_3.10.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\0502_3.10.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  .000%
+Percentage of correctly labeled Gates:  26.667%
+Percentage of correctly labeled Labels: 70.000%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\0502_3.5.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\0502_3.5.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  .000%
+Percentage of correctly labeled Gates:  .000%
+Percentage of correctly labeled Labels: 25.000%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\0502_3.6.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\0502_3.6.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  .000%
+Percentage of correctly labeled Gates:  33.333%
+Percentage of correctly labeled Labels: 28.571%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\1106_2.1.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\1106_2.1.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  26.667%
+Percentage of correctly labeled Gates:  16.667%
+Percentage of correctly labeled Labels: 60.000%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\1106_2.2.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\1106_2.2.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  6.250%
+Percentage of correctly labeled Gates:  30.000%
+Percentage of correctly labeled Labels: 35.714%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\1106_2.3.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\1106_2.3.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  .000%
+Percentage of correctly labeled Gates:  58.333%
+Percentage of correctly labeled Labels: .000%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\1106_2.4.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\1106_2.4.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  7.692%
+Percentage of correctly labeled Gates:  12.500%
+Percentage of correctly labeled Labels: 66.667%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\1234_3.1.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\1234_3.1.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  46.154%
+Percentage of correctly labeled Gates:  11.111%
+Percentage of correctly labeled Labels: 71.429%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\1234_3.4.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\1234_3.4.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  17.391%
+Percentage of correctly labeled Gates:  54.545%
+Percentage of correctly labeled Labels: 80.000%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\1357_3.7.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\1357_3.7.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  3.571%
+Percentage of correctly labeled Gates:  47.059%
+Percentage of correctly labeled Labels: 50.000%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\1500_3.4.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\1500_3.4.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  18.182%
+Percentage of correctly labeled Gates:  10.000%
+Percentage of correctly labeled Labels: 75.000%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\1585_2.2.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\1585_2.2.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  2.174%
+Percentage of correctly labeled Gates:  77.273%
+Percentage of correctly labeled Labels: 15.625%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\1585_2.5.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\1585_2.5.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  13.636%
+Percentage of correctly labeled Gates:  21.429%
+Percentage of correctly labeled Labels: 11.111%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\1585_2.6.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\1585_2.6.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  5.556%
+Percentage of correctly labeled Gates:  54.167%
+Percentage of correctly labeled Labels: 24.138%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\1585_2.7.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\1585_2.7.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  .000%
+Percentage of correctly labeled Gates:  18.182%
+Percentage of correctly labeled Labels: 6.250%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\1878_2.2.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\1878_2.2.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  20.690%
+Percentage of correctly labeled Gates:  11.765%
+Percentage of correctly labeled Labels: 54.839%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\2468_3.3.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\2468_3.3.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  .000%
+Percentage of correctly labeled Gates:  54.545%
+Percentage of correctly labeled Labels: 92.857%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\3141_3.5.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\3141_3.5.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  14.286%
+Percentage of correctly labeled Gates:  .000%
+Percentage of correctly labeled Labels: 17.647%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\3274_2.7.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\3274_2.7.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  3.226%
+Percentage of correctly labeled Gates:  56.522%
+Percentage of correctly labeled Labels: 45.455%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\3274_3.2.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\3274_3.2.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  9.524%
+Percentage of correctly labeled Gates:  66.667%
+Percentage of correctly labeled Labels: 75.000%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\4242_1.2.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\4242_1.2.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  13.043%
+Percentage of correctly labeled Gates:  40.000%
+Percentage of correctly labeled Labels: 58.824%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\4242_1.3.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\4242_1.3.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  16.667%
+Percentage of correctly labeled Gates:  27.273%
+Percentage of correctly labeled Labels: 63.636%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\4242_2.7.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\4242_2.7.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  43.750%
+Percentage of correctly labeled Gates:  .000%
+Percentage of correctly labeled Labels: 78.571%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\9171_3.2.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\9171_3.2.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  15.385%
+Percentage of correctly labeled Gates:  15.789%
+Percentage of correctly labeled Labels: 36.364%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3LABELS-LOGMESSAGES-5\9171_3.8.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\9171_3.8.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  45.000%
+Percentage of correctly labeled Gates:  .000%
+Percentage of correctly labeled Labels: 66.667%
+
+Results based on whole set of data:
+Overall accuracy: 29.466%
+Percentage of correctly labeled Wires: 14.667%
+Percentage of correctly labeled Gates: 30.851%
+Percentage of correctly labeled Labels 46.429%
